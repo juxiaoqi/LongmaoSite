@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="fav.aspx.cs" Inherits="Longmao.Web.Sites.ajax.fav" %>
